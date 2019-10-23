@@ -10,19 +10,17 @@
       md6
     >
       <div>
-        <h1>Home page</h1>
+        <h1>Order #1 Detail</h1>
       </div>
-      <!-- <signature/> -->
+
     </v-flex>
   </v-layout>
 </template>
 
 <script>
-import Signature from '~/components/Signature.vue'
 
 export default {
   components: {
-    Signature
   }
 }
 </script>
